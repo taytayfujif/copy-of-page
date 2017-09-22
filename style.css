@@ -1,0 +1,49 @@
+li a {
+text-decoration: none;
+font-family: arial;
+color: #ABABAB;
+float: left;
+padding: 5px;
+font-size: 13px;
+font-weight: 600;
+margin-top: 2px;
+margin-right: 13px;
+
+}
+
+img{
+margin-left: 130px;
+margin-top: 195px;
+}
+
+#sign {
+	border: 2px solid #D94A4A;
+	background-color: #D94A4A;
+	height: 16px;
+	width: 65px;
+	float: right;
+	margin-right: 40px;
+	margin-top: 20px;
+	border-radius: 3px; 
+	font-size: 11px;
+	font-family: arial;
+	text-align: center;
+	color: white;
+	font-weight: 600;
+	padding-top: 7px;
+}
+
+input{
+	width: 550px;
+	height: 25px;
+	border: 1px solid #3492F7;
+	margin-top: 290px;
+	margin-left: 670px;
+}
+
+#footer {
+	position: relative;
+	bottom:0;
+	font-family: verdana;
+	display: inline;
+}
